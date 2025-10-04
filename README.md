@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kool123r5
-- 👀 I’m interested in learing programming!
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Kushal
+- 👀 I’m interested in computation (especially ML)
+- 🌱 I’m currently a student at UCLA
 - 💞️ I’m looking to collaborate on anything, you can contact me on gmail (imkushal01@gmail.com)
 
 <!---
